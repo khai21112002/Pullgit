@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Im from Pullgit");
         System.out.println("Im from Pullgit");
         System.out.println("Commit");
+        System.out.println("Im from pullgit");
     }
 }
